@@ -67,4 +67,5 @@ python3 sql-crud.py
 
 ## Acknowledgements
 
-Thanks to Tim Nelson for walking through this [tutorial series](https://www.youtube.com/watch?v=ysmd9wxbmqw) as part of Code Institute's PostgreSQL and Python course.
+- Thanks to Tim Nelson for walking through this [tutorial series](https://www.youtube.com/watch?v=ysmd9wxbmqw) as part of Code Institute's PostgreSQL and Python course.
+- Thanks to Luis Rocha for creating and maintaining the [Chinook sample database](https://github.com/lerocha/chinook-database), used throughout this project.
